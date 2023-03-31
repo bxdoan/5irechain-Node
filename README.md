@@ -12,9 +12,10 @@ NODE TYPE | CPU | RAM | SSD     | Linux Version |
 ## Important links for Arbitrum:
 - [Website](https://5ire.org/)
 - [Explorer](https://explorer.5ire.network/dashboard)
-- [Twitter](https://twitter.com/arbitrum)
-- [Discord](https://discord.gg/arbitrum)
-- [Github](https://github.com/OffchainLabs)
+- [Twitter](https://twitter.com/5ireChain)
+- [Discord](https://discord.gg/5ire)
+- [Github](https://github.com/5ire-org)
+- [Quest Board](https://crew3.xyz/c/5irechain/invite/5gPZpEcuUzT34Tv4lPksQ)
 
 
 ## Install the 5irechain node.
@@ -22,7 +23,7 @@ NODE TYPE | CPU | RAM | SSD     | Linux Version |
 ### 1) Scripted installation.
 
 ```shell
-wget -O arbitrum.sh https://raw.githubusercontent.com/bxdoan/5irechain-Node/main/5irechain.sh && chmod +x arbitrum.sh && ./arbitrum.sh
+wget -O 5irechain.sh https://raw.githubusercontent.com/bxdoan/5irechain-Node/main/5irechain.sh && chmod +x 5irechain.sh && ./5irechain.sh
 ```
 
 ### 2) Manual installation.
