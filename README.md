@@ -1,4 +1,4 @@
-![](./5ireChain.png)
+![](./5irechain.png)
 <h1 align="center">5irechain Node Installation Guide by BXDOAN
 
 ## If you don't want to having problems with claim for a possible 5irechain airdrop, this guide is for you. Do not forget to star and fork from the top right. If you have questions: [Chat](https://t.me/bxdoan)
